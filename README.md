@@ -29,7 +29,7 @@ public class HoverElement : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
 ```
 
 1. Call `SimpleCursor.CursorUtilities.ChangeCursor(CursorType type)` on hover.
-2. Call `SimpleCursor.CursorUtilities.ChangeCursor(CursorType.Default)` on unhober.
+2. Call `SimpleCursor.CursorUtilities.ChangeCursor(CursorType.Default)` on unhover.
 
 Following CursorTypes are implemented.
 - Default
