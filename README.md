@@ -54,3 +54,6 @@ Following CursorTypes are implemented.
 
 ## Environment
 - Unity 2018.4.1f1
+
+## Resources
+Cursor images are managed on [this repository](https://github.com/jnphgs/SimpleCursor).
